@@ -1,6 +1,6 @@
 # Color Toast
 
-## Prerequisites
+## Eepositories
 Add this in your root settings.gradle.kts (Project Settings) :
 
 ```
