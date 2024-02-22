@@ -64,5 +64,5 @@ shouldTint).show();
 
 
 ## Screenshots
-![alt text]([http://url/to/img.png](https://raw.githubusercontent.com/GrenderG/Toasty/master/art/collage.png)https://raw.githubusercontent.com/GrenderG/Toasty/master/art/collage.png)
+<img src="https://raw.githubusercontent.com/GrenderG/Toasty/master/art/collage.png"/>
 
